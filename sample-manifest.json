@@ -1,0 +1,12 @@
+{
+  "export_job_id": "742bde32-c744-49f1-8344-00f3a1836d0a",
+  "id_short": 173764,
+  "published_at": "2026-04-11T19:03:40Z",
+  "repo_name": "tech-ready-restaurants-in-new-mexico-us-sample-173764",
+  "sample_asset_name": "beamstation_173764_restaurants-us-nm_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/173764/beamstation_173764_restaurants-us-nm_SAMPLE_DIST.csv",
+  "sample_records": 1,
+  "sample_sha256": "45a20dfb600c6474d08913d580195085996da7d45f08c2355cc8ea4946c5c628",
+  "sample_size_bytes": 20495,
+  "total_records": 15
+}
