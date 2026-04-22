@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
   "config_name": "Tech-Ready Restaurants in New Mexico, US",
-  "export_job_id": "cbd3a9da-903e-4a74-9528-33fd478e40fd",
+  "export_job_id": "0dd96cea-9c88-4236-a792-1addc9d1323b",
   "github_org": "Beamstation-Datasets",
   "id_short": 173764,
   "location_name": "New Mexico",
   "location_type": "state",
   "repo_name": "tech-ready-restaurants-in-new-mexico-us-sample-173764",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/173764/beamstation_173764_restaurants-us-nm_SAMPLE_DIST.csv",
-  "sample_pct": 10.0,
+  "sample_pct": 20.0,
   "sample_records": 1,
-  "sample_sha256": "e5f7ad71aa410a510181d42d967586c6db687ed3d2ad7a40bbc0d03af522b4b7",
-  "sample_size_bytes": 20497,
-  "total_records": 10,
-  "updated_at": "2026-04-15T08:47:51.025641+00:00"
+  "sample_sha256": "6bc7b3840546d1ab5304476bbc481ed8654c9e9043a259a498546575399367d3",
+  "sample_size_bytes": 20339,
+  "total_records": 5,
+  "updated_at": "2026-04-22T16:01:59.888851+00:00"
 }
