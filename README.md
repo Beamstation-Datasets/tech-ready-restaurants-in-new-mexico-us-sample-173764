@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in New Mexico, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 7 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `173764` |
 | Location | New Mexico |
 | Category | Restaurants |
-| Full dataset size | 5 records |
-| Free sample size | 1 records (20.0%) |
-| Last export | 2026-04-22T16:01:59.888851+00:00 |
+| Full dataset size | 76 records |
+| Free sample size | 7 records (9.21%) |
+| Last export | 2026-04-29T16:13:53.746386+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-new-mexico-us-sample-173764/releases/download/sample-latest/beamstation_173764_restaurants-us-nm_SAMPLE_DIST.csv) |
 
 ## What is in this sample
